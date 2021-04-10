@@ -1,4 +1,4 @@
-# COMP 558 Panorama Stitcher
+# Panorama Stitcher
 Matlab code to stich two adjacent images into one image using a homography\n
 Load images files into image1 and image2 and run
 
