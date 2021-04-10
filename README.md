@@ -1,1 +1,1 @@
-# COMP 558 Panorama Sitcher
+# COMP 558 Panorama Stitcher
